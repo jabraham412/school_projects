@@ -1,0 +1,11 @@
+--------------------------------------------------
+Target website: aspnet.testsparker.com
+Remote host IP address: 54.204.37.212
+Scanning ports 1 - 1024...
+--------------------------------------------------
+PORT 	 STATE 	 SERVICE
+80 	 Open 	  http
+--------------------------------------------------
+Date & time of scan start:  11/25/15 05:36:56 AM
+Scan completed in:  0:01:09.630163
+--------------------------------------------------

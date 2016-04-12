@@ -1,0 +1,34 @@
+This crawler extracts useful information from organization's websites for penetration testing.
+The information it looks for is:
+1. e-mail addresses
+2. phone numbers
+3. SSN's
+4. MD5 hashes
+5. IPv4 Addresses
+6. physical addresses
+7. URLs that point to any site with the name test, dev, stage in it
+
+Enter a base url (with http(s)://) to start the crawl: http://aspnet.testsparker.com
+Set a crawl depth limit (y/n): n
+--------------------------------------------------
+crawling in progress...
+http://aspnet.testsparker.com
+http://aspnet.testsparker.com/redir.php?param=http://www.mavitunasecurity.com/
+http://aspnet.testsparker.com/process.aspx?file=Generics/index.aspx
+http://aspnet.testsparker.com/redir.php?param=http://www.mavitunasecurity.com/netsparker/
+http://aspnet.testsparker.com/nslookup.aspx
+http://aspnet.testsparker.com/hello.aspx?name=Visitor
+http://aspnet.testsparker.com/process.aspx?file=Generics/about.aspx
+http://aspnet.testsparker.com/artist.aspx
+http://aspnet.testsparker.com/products.aspx?pro=url
+http://aspnet.testsparker.com/process.aspx?file=Generics%2findex.aspx
+http://aspnet.testsparker.com/process.aspx?file=Generics/contact.aspx
+-----> Email Address: test@netsparker.com
+-----> Possible Phone Number: 123 456 7890
+-----> Possible Phone Number: 123 456 7891
+http://aspnet.testsparker.com/process.aspx?file=Generics%2fabout.aspx
+http://aspnet.testsparker.com/process.aspx?file=Generics%2fcontact.aspx
+-----> Email Address: test@netsparker.com
+-----> Possible Phone Number: 123 456 7890
+-----> Possible Phone Number: 123 456 7891
+--------------------------------------------------

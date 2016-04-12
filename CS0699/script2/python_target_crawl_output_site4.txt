@@ -1,0 +1,87 @@
+This crawler extracts useful information from organization's websites for penetration testing.
+The information it looks for is:
+1. e-mail addresses
+2. phone numbers
+3. SSN's
+4. MD5 hashes
+5. IPv4 Addresses
+6. physical addresses
+7. URLs that point to any site with the name test, dev, stage in it
+
+Enter a base url (with http(s)://) to start the crawl: http://testasp.vulnweb.com
+Set a crawl depth limit (y/n): n
+--------------------------------------------------
+crawling in progress...
+http://testasp.vulnweb.com
+http://testasp.vulnweb.com/showforum.asp?id=1
+http://testasp.vulnweb.com/showforum.asp?id=0
+http://testasp.vulnweb.com/Login.asp?RetURL=%2FDefault%2Easp%3F
+http://testasp.vulnweb.com/Default.asp
+http://testasp.vulnweb.com/showforum.asp?id=2
+http://testasp.vulnweb.com/Search.asp
+http://testasp.vulnweb.com/Templatize.asp?item=html/about.html
+http://testasp.vulnweb.com/Register.asp?RetURL=%2FDefault%2Easp%3F
+http://testasp.vulnweb.com/showthread.asp?id=0
+-----> IPv4 Address: 113.111.135.200
+http://testasp.vulnweb.com/showthread.asp?id=3
+http://testasp.vulnweb.com/showthread.asp?id=2
+http://testasp.vulnweb.com/showthread.asp?id=5
+-----> IPv4 Address: 113.111.135.200
+http://testasp.vulnweb.com/showthread.asp?id=4
+-----> IPv4 Address: 113.111.135.200
+http://testasp.vulnweb.com/showthread.asp?id=1
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowforum%2Easp%3Fid%3D1
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowforum%2Easp%3Fid%3D1
+http://testasp.vulnweb.com/showthread.asp?id=9
+-----> IPv4 Address: 111.93.151.210
+http://testasp.vulnweb.com/showthread.asp?id=8
+-----> IPv4 Address: 113.111.135.200
+http://testasp.vulnweb.com/showthread.asp?id=7
+-----> IPv4 Address: 113.111.135.200
+http://testasp.vulnweb.com/showthread.asp?id=6
+-----> IPv4 Address: 113.111.135.200
+http://testasp.vulnweb.com/showthread.asp?id=12
+-----> IPv4 Address: 111.93.151.210
+http://testasp.vulnweb.com/showthread.asp?id=13
+-----> IPv4 Address: 111.93.151.210
+http://testasp.vulnweb.com/showthread.asp?id=10
+-----> IPv4 Address: 111.93.151.210
+http://testasp.vulnweb.com/showthread.asp?id=11
+-----> IPv4 Address: 111.93.151.210
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowforum%2Easp%3Fid%3D0
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowforum%2Easp%3Fid%3D0
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowforum%2Easp%3Fid%3D2
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowforum%2Easp%3Fid%3D2
+http://testasp.vulnweb.com/Register.asp?RetURL=%2FSearch%2Easp%3F
+http://testasp.vulnweb.com/Login.asp?RetURL=%2FSearch%2Easp%3F
+http://testasp.vulnweb.com/Login.asp?RetURL=%2FTemplatize%2Easp%3Fitem%3Dhtml%2Fabout%2Ehtml
+http://testasp.vulnweb.com/Register.asp?RetURL=%2FTemplatize%2Easp%3Fitem%3Dhtml%2Fabout%2Ehtml
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D0
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D0
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D3
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D3
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D2
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D2
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D5
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D5
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D4
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D4
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D1
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D1
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D9
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D9
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D8
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D8
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D7
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D7
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D6
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D6
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D12
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D12
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D13
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D13
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D10
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D10
+http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D11
+http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D11
+--------------------------------------------------

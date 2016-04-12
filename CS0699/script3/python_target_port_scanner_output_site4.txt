@@ -1,0 +1,13 @@
+--------------------------------------------------
+Target website: testasp.vulnweb.com
+Remote host IP address: 87.230.29.167
+Scanning ports 1 - 1024...
+--------------------------------------------------
+PORT 	 STATE 	 SERVICE
+80 	 Open 	  http
+1033 	 Open 	  netinfo
+1036 	 Open 	  nsstp
+--------------------------------------------------
+Date & time of scan start:  11/25/15 05:33:29 AM
+Scan completed in:  0:01:03.976814
+--------------------------------------------------

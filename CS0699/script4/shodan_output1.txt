@@ -1,0 +1,1189 @@
+Input a subnet (example: 192.0.216.0/24): 192.168.0.1/24 
+--------------------------------------------------
+Date & time of query:  12/05/15 07:15:37 PM
+--------------------------------------------------
+Results found: 48647
+
+IP: 37.57.12.42
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Tue, 14 Mar 2000 02:34:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/picsdesc.xml
+SERVER: Linux/2.4.26-uc0, UPnP/1.0, Intel SDK for UPnP devices /1.2
+ST: upnp:rootdevice
+USN: uuid:d487e840-1dd1-11b2-9796-9fa59fc4f57c::upnp:rootdevice
+
+
+IP: 85.87.240.214
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=3600
+DATE: Sun, 06 Dec 2015 01:07:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:6efcde03-102a-5305-aff0-46e51e906d22::upnp:rootdevice
+
+
+IP: 216.197.190.87
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 00:05:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/picsdesc.xml
+SERVER: Linux/2.4.26-uc0, UPnP/1.0, Intel SDK for UPnP devices /1.2
+ST: upnp:rootdevice
+USN: uuid:11bbf280-1dd2-11b2-a2d0-001cf051b38c::upnp:rootdevice
+
+
+IP: 68.112.93.230
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 08:03:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:8268/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 45.49.103.163
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1810
+DATE: Mon, 24 Oct 2011 00:13:31 GMT
+ST: upnp:rootdevice
+USN: uuid:4d696e69-444c-164e-9d41-84c9b2662733::upnp:rootdevice
+EXT:
+SERVER: Linux/2.6.36+ DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0
+LOCATION: http://192.168.0.1:8200/rootDesc.xml
+Content-Length: 0
+
+
+IP: 104.192.187.85
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+Date: Sun, 06 Dec 2015 07:56:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 78737d64-1dd2-11b2-804e-e1b415057b50
+Server: MF30, UPnP/1.0, ZTE
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:f4ea7baa-a6d4-918c-6623-d439227d3ed6::upnp:rootdevice
+
+
+IP: 119.55.130.41
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 07:58:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:10810/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 61.6.19.42
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Thu, 01 Jan 1970 13:24:36 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/IGD.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:30809696-105a-3721-e8b8-38d82f0823e4::upnp:rootdevice
+
+
+IP: 201.244.245.225
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:57:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-f4b8a7d117cc::upnp:rootdevice
+
+
+IP: 176.213.156.165
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:55:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux/2.6.21.5, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-f084c957fbc8::upnp:rootdevice
+
+
+IP: 86.2.3.192
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=3600
+DATE: Sat, 05 Dec 2015 23:55:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:497b4552-cbb2-5a4e-bc53-4d848241f008::upnp:rootdevice
+
+
+IP: 112.167.249.94
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=172800
+DATE: Sun, 06 Dec 2015 08:55:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/gatedesc.xml
+SERVER: Linux/2.4.19-rmk4, UPnP/1.0, Intel SDK for UPnP devices /1.2
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 83.213.22.160
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=3600
+DATE: Sun, 06 Dec 2015 00:52:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:f9acb21c-fe5d-5b55-bc37-3f695f7cbb0d::upnp:rootdevice
+
+
+IP: 221.218.72.81
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Sun, 06 Dec 2015 07:51:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:4955/description.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-c83a35436ac0::upnp:rootdevice
+
+
+IP: 46.194.184.163
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Thu, 24 Aug 2000 16:16:44 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-34210914c2d0::upnp:rootdevice
+
+
+IP: 177.221.14.41
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 15 Nov 2014 01:16:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49153/gatedesc.xml
+SERVER: Linux/2.6.34.8-BL2.1.10.1, UPnP/1.0, Portable SDK for UPnP devices/1.4.2
+X-User-Agent: ZyXEL
+ST: upnp:rootdevice
+USN: uuid:24c36f82-6b2f-11e4-acf1-00211302d37d::upnp:rootdevice
+
+
+IP: 178.139.198.160
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Tue, 24 Feb 1970 03:02:22 GMT
+EXT:
+LOCATION: http://192.168.0.1:50000/igdevicedesc.xml
+SERVER: PACKAGE_VERSION  WIND version 2.8, UPnP/1.0, WindRiver SDK for UPnP devices/  
+ST: upnp:rootdevice
+USN: uuid:00188216-0475-0018-8261-04750182a8a5::upnp:rootdevice
+
+
+IP: 213.196.187.61
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:47:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/picsdesc.xml
+SERVER: Linux/2.4.26-uc0, UPnP/1.0, Intel SDK for UPnP devices /1.2
+ST: upnp:rootdevice
+USN: uuid:2cde81e0-1dd2-11b2-8255-001e588b27a4::upnp:rootdevice
+
+
+IP: 79.126.136.72
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 07:44:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:15068/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 221.185.152.251
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:44:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/gatedesc.xml
+SERVER: Linux/2.4.18_mvl30-ixdp425, UPnP/1.0, Intel SDK for UPnP devices/1.3.1
+ST: upnp:rootdevice
+USN: uuid:36c15d5c-1dd2-11b2-bda1-d26fe394ec7b::upnp:rootdevice
+
+
+IP: 80.7.137.92
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=3600
+DATE: Sat, 05 Dec 2015 23:42:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:0d3e34e6-581e-59ac-8c3f-88e631267031::upnp:rootdevice
+
+
+IP: 61.6.25.199
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Tue, 24 Feb 1970 20:22:18 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/IGD.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:30809696-105a-3721-e8b8-38d82f080c6c::upnp:rootdevice
+
+
+IP: 87.123.40.74
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Fri, 24 Jul 2009 16:06:33 GMT
+EXT:
+LOCATION: http://192.168.0.1:49153/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.6.0
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:18de43f8-677c-4d3a-8920-ACF1DF50F2DE::upnp:rootdevice
+
+
+IP: 85.85.226.253
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=3600
+DATE: Sun, 06 Dec 2015 00:27:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:d2bfbb11-09c9-51bf-9a77-cb0f3cc922c7::upnp:rootdevice
+
+
+IP: 190.112.74.59
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 20:24:57 GMT
+EXT:
+LOCATION: http://192.168.0.1:11698/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 179.164.11.133
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Sat, 05 Dec 2015 23:24:59 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-84c9b2e2d97b::upnp:rootdevice
+
+
+IP: 112.5.236.184
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 07:24:54 GMT
+EXT:
+LOCATION: http://192.168.0.1:59142/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 118.186.196.9
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 07:24:52 GMT
+EXT:
+LOCATION: http://192.168.0.1:17711/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 84.215.2.131
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Sun, 06 Dec 2015 00:24:51 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-34210920ddf8::upnp:rootdevice
+
+
+IP: 201.244.40.204
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:24:45 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-f4b8a7d0391e::upnp:rootdevice
+
+
+IP: 104.33.104.147
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Sat, 05 Dec 2015 23:24:12 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+SERVER: Linux/2.6.18_pro500, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-f8eda546d300::upnp:rootdevice
+
+
+IP: 125.44.143.147
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Sun, 06 Dec 2015 07:24:38 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+SERVER: Linux/2.4.30, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-c83a354bca48::upnp:rootdevice
+
+
+IP: 58.187.91.110
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:24:38 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/gatedesc.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 87e1ce84-1dd2-11b2-8695-af9d8a62e01c
+SERVER: Linux/2.6.32.11, UPnP/1.0, Portable SDK for UPnP devices/1.6.19
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 186.31.55.72
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:24:35 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-146080cd9efe::upnp:rootdevice
+
+
+IP: 186.31.55.72
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:24:35 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/IGD.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:30809696-105a-3721-e8b8-146080cd9efe::upnp:rootdevice
+
+
+IP: 201.244.255.192
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:24:30 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-f4b8a7d4cbfc::upnp:rootdevice
+
+
+IP: 186.29.51.96
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:24:30 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-f4b8a7d092fa::upnp:rootdevice
+
+
+IP: 186.29.51.96
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:24:30 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/IGD.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:30809696-105a-3721-e8b8-f4b8a7d092fa::upnp:rootdevice
+
+
+IP: 186.28.129.155
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:24:21 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-cc7b35aa666c::upnp:rootdevice
+
+
+IP: 45.47.3.99
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Sat, 05 Dec 2015 18:24:01 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+SERVER: Linux/2.6.18_pro500, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-f8eda53cc090::upnp:rootdevice
+
+
+IP: 201.245.224.52
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:24:15 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/IGD.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:30809696-105a-3721-e8b8-146080cdc06a::upnp:rootdevice
+
+
+IP: 67.174.113.39
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 16:24:11 GMT
+EXT:
+LOCATION: http://192.168.0.1:14901/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 123.77.75.92
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 07:19:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:9602/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 109.57.19.89
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Fri, 28 Jul 2000 01:28:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-3421090cc9b4::upnp:rootdevice
+
+
+IP: 84.43.185.239
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 07:12:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:8724/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 95.220.50.226
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:10:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/picsdesc.xml
+SERVER: Linux/2.4.26-uc0, UPnP/1.0, Intel SDK for UPnP devices /1.2
+ST: upnp:rootdevice
+USN: uuid:f7267200-1dd1-11b2-aa0c-00179adc67c4::upnp:rootdevice
+
+
+IP: 192.228.173.36
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 24 Jan 1970 19:02:05 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/IGD.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:30809696-105a-3721-e8b8-94a7b7348aa2::upnp:rootdevice
+
+
+IP: 94.189.150.211
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 00:03:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/gatedesc.xml
+SERVER: Linux/2.4.30, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 24.131.39.63
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1810
+DATE: Wed, 05 Oct 2011 08:52:24 GMT
+ST: upnp:rootdevice
+USN: uuid:4d696e69-444c-164e-9d41-84c9b26ba7b5::upnp:rootdevice
+EXT:
+SERVER: Linux/2.6.36+ DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0
+LOCATION: http://192.168.0.1:8200/rootDesc.xml
+Content-Length: 0
+
+
+IP: 114.95.216.2
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 07:00:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:61861/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 138.36.89.202
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 24 Jan 2015 01:56:10 GMT
+EXT:
+LOCATION: http://192.168.0.1:49153/gatedesc.xml
+SERVER: Linux/2.6.34.8-BL2.1.10.1, UPnP/1.0, Portable SDK for UPnP devices/1.4.2
+X-User-Agent: ZyXEL
+ST: upnp:rootdevice
+USN: uuid:70220996-a308-11e4-9b16-00211302abe1::upnp:rootdevice
+
+
+IP: 221.202.58.222
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 06:52:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:25694/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 61.6.11.251
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Mon, 05 Jan 1970 18:24:49 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/IGD.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:30809696-105a-3721-e8b8-38d82f081de4::upnp:rootdevice
+
+
+IP: 113.203.171.106
+HTTP/1.1 200 OK
+Ext:
+DATE: Sun, 06 Dec 2015 03:46:24 GMT
+ST:upnp:rootdevice
+USN:uuid:ae6a1708-8258-4c7c-8333-4072c6219776::upnp:rootdevice
+LOCATION: http://192.168.0.1:80/IGDDeviceDescription.xml
+Cache-Control: max-age=900
+Server: Siemens-UPnP/1.0Siemens Gigaset
+Content-Length: 0
+
+
+IP: 188.234.162.86
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 22:45:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux/2.6.21.5, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-34e0cf6523a8::upnp:rootdevice
+
+
+IP: 186.222.0.141
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 22:45:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/picsdesc.xml
+SERVER: Linux/2.4.26-uc0, UPnP/1.0, Intel SDK for UPnP devices /1.2
+ST: upnp:rootdevice
+USN: uuid:968c5320-1dd1-11b2-887c-00195b249ca2::upnp:rootdevice
+
+
+IP: 1.176.201.53
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=172800
+DATE: Sun, 06 Dec 2015 07:45:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/gatedesc.xml
+SERVER: Linux/2.4.19-rmk4, UPnP/1.0, Intel SDK for UPnP devices /1.2
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 95.90.53.66
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 23:42:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/gatedesc.xml
+SERVER: Linux/2.4.30, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 61.6.40.91
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Tue, 17 Feb 1970 20:24:34 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/IGD.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:30809696-105a-3721-e8b8-94a7b7347526::upnp:rootdevice
+
+
+IP: 176.214.232.210
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 22:40:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux/2.6.30.9, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-ac64628a6398::upnp:rootdevice
+
+
+IP: 104.192.187.118
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+Date: Sun, 06 Dec 2015 06:30:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 78cbb10a-1dd2-11b2-9ea0-c0caaf7b482b
+Server: MF30, UPnP/1.0, ZTE
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:435ef985-be53-deee-7abe-43374b9b28d9::upnp:rootdevice
+
+
+IP: 146.0.81.228
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1810
+DATE: Mon, 06 Feb 2012 20:24:27 GMT
+ST: upnp:rootdevice
+USN: uuid:4d696e69-444c-164e-9d41-ccb255d532d8::upnp:rootdevice
+EXT:
+SERVER: Linux/2.6.36+ DLNADOC/1.50 UPnP/1.0 MiniDLNA/1.0
+LOCATION: http://192.168.0.1:8200/rootDesc.xml
+Content-Length: 0
+
+
+IP: 61.6.34.17
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 24 Jan 1970 11:34:42 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/IGD.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:30809696-105a-3721-e8b8-94a7b7346ef6::upnp:rootdevice
+
+
+IP: 162.247.31.251
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+Date: Sun, 06 Dec 2015 06:24:36 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 77fca928-1dd2-11b2-a189-fb636c3af523
+Server: MF30, UPnP/1.0, ZTE
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28cf0055-89be-c843-e122-8332695d9ddb::upnp:rootdevice
+
+
+IP: 219.141.78.148
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 06:30:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/InternetGateWayDevice.xml/description.xml
+SERVER: UPnP/1.0, Intel SDK for UPnP devices /1.2
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 190.24.105.210
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 22:27:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/IGD.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:30809696-105a-3721-e8b8-146080b703b6::upnp:rootdevice
+
+
+IP: 190.24.105.210
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 22:27:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-146080b703b6::upnp:rootdevice
+
+
+IP: 76.23.97.64
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 17:26:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:55161/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 186.28.37.200
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 22:24:58 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-e47723744080::upnp:rootdevice
+
+
+IP: 106.244.153.17
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=172800
+DATE: Sun, 06 Dec 2015 07:24:42 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/gatedesc.xml
+SERVER: Linux/2.4.19-rmk4, UPnP/1.0, Intel SDK for UPnP devices /1.2
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 5.165.87.158
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 22:24:56 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux/2.6.21.5, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-f084c957ec60::upnp:rootdevice
+
+
+IP: 110.46.133.74
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=172800
+DATE: Sun, 06 Dec 2015 07:24:48 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/gatedesc.xml
+SERVER: Linux/2.4.19-rmk4, UPnP/1.0, Intel SDK for UPnP devices /1.2
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 60.183.135.21
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 06:24:40 GMT
+EXT:
+LOCATION: http://192.168.0.1:47829/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 190.141.213.177
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 19:24:35 GMT
+EXT:
+LOCATION: http://192.168.0.1:19550/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 190.27.152.193
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 22:24:40 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-e477237170be::upnp:rootdevice
+
+
+IP: 74.67.181.144
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Sat, 05 Dec 2015 17:24:34 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+SERVER: Linux/2.6.18_pro500, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-0cf89370f040::upnp:rootdevice
+
+
+IP: 95.56.11.128
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 04:24:26 GMT
+EXT:
+LOCATION: http://192.168.0.1:49758/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 186.30.95.36
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 22:24:31 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/IGD.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:30809696-105a-3721-e8b8-146080b22576::upnp:rootdevice
+
+
+IP: 24.168.40.43
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Sat, 05 Dec 2015 17:24:19 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+SERVER: Linux/2.6.18_pro500, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-001dd399cfa0::upnp:rootdevice
+
+
+IP: 186.30.95.36
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 22:24:31 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-146080b22576::upnp:rootdevice
+
+
+IP: 85.87.254.88
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=3600
+DATE: Sat, 05 Dec 2015 23:24:25 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:7ce3e1d1-6b35-598c-acf8-8eeab6be7a36::upnp:rootdevice
+
+
+IP: 97.95.208.3
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 17:24:18 GMT
+EXT:
+LOCATION: http://192.168.0.1:6541/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 111.165.21.9
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 06:24:18 GMT
+EXT:
+LOCATION: http://192.168.0.1:2685/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 83.213.245.208
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=3600
+DATE: Sat, 05 Dec 2015 23:24:06 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:c98b0a7f-e281-5b64-9a41-4b71621c997b::upnp:rootdevice
+
+
+IP: 36.225.56.189
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 06:24:04 GMT
+EXT:
+LOCATION: http://192.168.0.1:33239/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 112.2.65.100
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Sun, 06 Dec 2015 06:24:04 GMT
+EXT:
+LOCATION: http://192.168.0.1:4184/description.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-00b00c2879e0::upnp:rootdevice
+
+
+IP: 46.233.194.47
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 06:19:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:2285/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 37.112.32.147
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 22:18:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:52869/gatedesc.xml
+SERVER: Linux/2.6.21.5, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:20809696-105a-3721-e8b8-34e0cf637600::upnp:rootdevice
+
+
+IP: 138.36.91.127
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 24 Jan 2015 16:40:26 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/gatedesc.xml
+SERVER: Linux/2.6.34.8-BL2.1.10.1, UPnP/1.0, Portable SDK for UPnP devices/1.4.2
+X-User-Agent: ZyXEL
+ST: upnp:rootdevice
+USN: uuid:6f7cacd0-a308-11e4-a437-00211302d211::upnp:rootdevice
+
+
+IP: 83.213.28.106
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=3600
+DATE: Sat, 05 Dec 2015 23:16:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:a36da5ea-cf01-5797-89d7-8a88535e6dd6::upnp:rootdevice
+
+
+IP: 112.146.43.130
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=172800
+DATE: Sun, 06 Dec 2015 07:13:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/gatedesc.xml
+SERVER: Linux/2.4.19-rmk4, UPnP/1.0, Intel SDK for UPnP devices /1.2
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 122.137.182.159
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 06:12:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:44577/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 104.33.7.231
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Sat, 05 Dec 2015 22:10:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49153/description.xml
+SERVER: Linux/2.6.18_pro500, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-0cf893591fc0::upnp:rootdevice
+
+
+IP: 173.162.1.57
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sat, 05 Dec 2015 22:11:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49153/gatedesc.xml
+SERVER: Linux/2.6.16-star, UPnP/1.0, Intel SDK for UPnP devices/1.3.1
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 115.171.118.165
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 06:10:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49153/gatedesc.xml
+SERVER: Linux/2.4.30, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 83.213.114.248
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=3600
+DATE: Sat, 05 Dec 2015 23:10:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:e8af8e49-fcff-556d-a48c-971637b92281::upnp:rootdevice
+
+
+IP: 123.122.112.142
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 06:03:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:38361/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice
+
+
+IP: 94.254.61.6
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Sat, 05 Feb 2000 04:24:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-34210902dd38::upnp:rootdevice
+
+
+IP: 83.209.155.85
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=100
+DATE: Sun, 07 Jan 2001 14:55:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:49152/description.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:28802880-2880-1880-a880-3421090a9674::upnp:rootdevice
+
+
+IP: 24.115.253.108
+HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1800
+DATE: Sun, 06 Dec 2015 06:01:24 GMT
+EXT:
+LOCATION: http://192.168.0.1:20817/gatedesc.xml
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.3.1
+X-User-Agent: redsonic
+ST: upnp:rootdevice
+USN: uuid:75802409-bccb-40e7-8e6c-fa095ecce13e::upnp:rootdevice

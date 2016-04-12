@@ -1,0 +1,12 @@
+--------------------------------------------------
+Target website: crackme.cenzic.com
+Remote host IP address: 204.13.201.47
+Scanning ports 1 - 1024...
+--------------------------------------------------
+PORT 	 STATE 	 SERVICE
+80 	 Open 	  http
+443 	 Open 	  https
+--------------------------------------------------
+Date & time of scan start:  11/25/15 05:24:27 AM
+Scan completed in:  0:01:09.331007
+--------------------------------------------------

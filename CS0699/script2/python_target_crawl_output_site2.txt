@@ -1,0 +1,18 @@
+This crawler extracts useful information from organization's websites for penetration testing.
+The information it looks for is:
+1. e-mail addresses
+2. phone numbers
+3. SSN's
+4. MD5 hashes
+5. IPv4 Addresses
+6. physical addresses
+7. URLs that point to any site with the name test, dev, stage in it
+
+Enter a base url (with http(s)://) to start the crawl: http://crackme.cenzic.com
+Set a crawl depth limit (y/n): n
+--------------------------------------------------
+crawling in progress...
+http://crackme.cenzic.com
+--------------------------------------------------
+
+No useful information found
