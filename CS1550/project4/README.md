@@ -12,7 +12,7 @@ From a user interface perspective, this file system is a two level directory sys
 From an implementation perspective, the file system will keep data on “disk” via a linked list allocation strategy.<br />
 In order to manage the free or empty space, a bookkeeping block(s) is created in .disk that records what blocks have been previously allocated or not. A simple bitmap is used. <br />
 
-![alt tag](https://github.com/abrahamjj/CS1550/blob/master/project4/linked_list_allocation.gif)
+![alt tag](https://github.com/abrahamjj/School_Projects/CS1550/blob/master/project4/linked_list_allocation.gif)
 
 The root directory, subdirectories, and files are stored on disk in a file called .disk <br />
 To format the disk file enter the command: <br />
