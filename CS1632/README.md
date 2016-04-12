@@ -1,4 +1,4 @@
-#CS1699 - Software Testing#
+#CS1699 - Software Quality Assurance#
 Programming Assignments for the University of Pittsburgh's Software Testing course taught by Bill Laboon. <br />
 
 **_For reference only._** <br />
