@@ -1,0 +1,68 @@
+/*
+	Solution3.java
+
+	You are given an array with dimension of 10 but only 5 values in it. The last five
+	cells still contain zeros;
+
+	You are to write a loop that executes 5 times. Each time thru you ask for and parse
+	a number from the user. you are to always add that new number to the FRONT of the array.
+	This means that you must first shuffle all the existing elements to the right, then copy
+	the new element into the [0] slot.
+*/
+
+
+import java.io.*;
+import java.util.Random;
+
+public class Solution3
+{
+	public static void main( String args[] ) throws IOException
+	{
+		BufferedReader kbd = new BufferedReader( new InputStreamReader(System.in) );
+
+		// declate and intialize array
+
+		int myArr[] = new int[ 10 ];
+		int count=0; // actual number of cells being used
+
+		for (int i=0 ; i<5 ; ++i )
+			myArr[count++] = i;
+
+		// now, myArr:  [0][1][2][3][4][0][0][0][0][0]   (last 5 are zeros)
+
+		// loop: print the array - all on one line separated by a space
+		// use count NOT .length
+
+		System.out.print("myArr: " );
+		for (int i=0 ; i<count ; ++i )
+			System.out.print(myArr[i] + " " );
+		System.out.println();
+
+		while ( count < myArr.length )
+		{
+			System.out.print("Enter an int: " );
+			int val = Integer.parseInt( kbd.readLine() );
+			// start from the end and shift elem to the right, then go left to next elem
+			for (int i=count-1 ; i >=0 ; --i )
+				myArr[i+1] = myArr[i];
+			myArr[0] = val;
+			++count;
+		}
+
+		// Assume user entered 9,8,7,6 and 5
+		// then myArr would look like: [5][6][7][8][9][0][1][2][3][4]
+		// *Note the 5 new values get "reversed" from their inputed dorder
+
+
+		// loop: print the array - all on one line separated by a space
+		// use count NOT .length
+
+		System.out.print("myArr: " );
+		for (int i=0 ; i<count ; ++i )
+			System.out.print(myArr[i] + " " );
+		System.out.println();
+
+
+	} //
+
+}

@@ -1,0 +1,44 @@
+/*
+	Solution1.java
+
+	This program runs a loop that repeatedly prompts the user for positive numbers. Each number
+	is examined to be odd or even then added to the oddSum or evenSum accordingly. If the nuymber
+	is negative, then don't add it to anything becasue that is the user's signal to quit.
+*/
+
+import java.io.*;
+public class Solution1
+{
+	public static void main (String[] args) throws IOException
+	{
+		BufferedReader kbd = new BufferedReader(new InputStreamReader(System.in));
+
+		int val, evenSum, oddSum;
+		evenSum = oddSum = 0;
+
+		do
+		{
+			System.out.print("\nEnter a non-negative number\n(or any negative number to quit) ");
+
+			val = Integer.parseInt( kbd.readLine() );
+
+			if ( val >= 0 )
+			{
+				if ( val%2 == 1 ) // it's odd
+				{
+					oddSum+=val;
+					System.out.println( val + " is odd " + " oddSum: " + oddSum );
+				}
+				else
+				{
+					evenSum+=val;
+					System.out.println( val + " is even " + " evenSum: " + evenSum );
+				}
+			} // END IF
+
+		} while ( val >= 0 );
+
+		System.out.println( "\n\noddSum: " + oddSum + ",  evenSum: " + evenSum );
+
+	} // END main
+} //EOF

@@ -1,0 +1,37 @@
+/* 
+	Exercise1.java  
+
+	This program runs a loop that repeatedly prompts the user for positive numbers. Each number
+	is examined to be odd or even then added to the oddSum or evenSum accordingly. If the nuymber 
+	is negative, then don't add it to anything becasue that is the user's signal to quit.
+
+	You must declare variables, fill in some of the code and replace descriptive comments with 
+	code to accomplish what the comments describe to be done
+*/
+
+import java.io.*;
+public class Exercise1
+{
+	public static void main (String[] args) throws IOException
+	{
+		BufferedReader kbd = new BufferedReader(new InputStreamReader(System.in));
+
+		// declare a String variable to hold user's keyboard input
+		// declare ints for the int conversion of response, oddSum and evenSum
+	
+		do
+		{
+			System.out.print("Enter a non-negative number: (or any negative number to quit) ");			
+			
+			// read and convert the response into val
+
+			// if the val is zero or greater do the following
+			//	if it's odd print it and add it to the oddSum
+			//	BUT if it's even then print it and add it to the evenSum
+			
+		} while ( the val is non-negative );
+		
+		// print the sum of all the odds and the evens
+
+	} // END main
+} //EOF

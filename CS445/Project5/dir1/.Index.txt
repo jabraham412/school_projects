@@ -1,0 +1,5 @@
+WAR-FTPD 1.67-05 3
+Arrays 0777 hoffman Guest 1 0 (null)
+Loops-IO 0777 hoffman Guest 1 0 (null)
+Strings 0777 hoffman Guest 1 0 (null)
+Aug-28.html 0666 hoffman Guest 0 0 (null)

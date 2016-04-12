@@ -1,0 +1,6 @@
+jsmith PETA YCL ACLU
+bjones PETA NRA
+mjackson GREENPEACE NAMBLA
+kjohnson SAVE_THE_WHALES MADD
+jroberts NRA MADD
+jsandusky YCL NAMBLA ACLU

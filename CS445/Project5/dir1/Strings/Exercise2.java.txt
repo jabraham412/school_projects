@@ -1,0 +1,41 @@
+/*
+	Exercise2.java  character shift within a string
+
+	This program is similar to exercise 1 but instead of generating a reversal it instead does 
+	shirfting of the characters.
+
+	Examples: 
+		"Hello"   shifted 1  place   becomes  "oHell"
+		"Hello"   shifted 3  places  becomes  "lloHe"
+		"FooBar"  shifted -1 places  becomes  "ooBarF"
+		"FooBar"  shifted -3 places  becomes  "BarFoo"
+
+	Note that in a fwd shift the end chars wrap to the back
+	and a rev shift the front chars wrap to the front.
+	No chars are ever lost.
+
+	*Hint: every time you shift chars 1 place, you are actually be creating a 
+	new String in its place that has the back char moved to the front or front
+	char moved to the back. Thus the original string is destroyed
+*/
+
+import java.io.*;
+public class Exercise2
+{
+	public static void main (String[] args) throws IOException
+	{
+		BufferedReader kbd = new BufferedReader(new InputStreamReader(System.in));
+
+		String original, shiftedString;
+		int placesToShift;
+	
+		// prompt for and read the original string from user
+		// prompt, read, convert number of places to shirt
+
+		// write a loop that shifts the characters of the String forward or backward 
+		// the number of places specified by user
+
+		System.out.println("After shift by " + placesToShift + ": " + shiftedString" );
+
+	} // END main
+} //EOF

@@ -1,0 +1,62 @@
+import java.io.*;
+
+public class rotationUsingStringBuffer
+{
+	public static void main( String args[] ) throws IOException
+	{
+		BufferedReader kbd = new BufferedReader( new InputStreamReader( System.in ) );
+		int i = 0;
+
+        System.out.print("Enter a word: " );
+		String foo = kbd.readLine();
+
+        int t;
+		// print backward
+        for(t = (foo.length()-1); t>=0; t--)
+        {
+           System.out.print(foo.charAt(t));
+        }
+        System.out.print("\n\n\n");
+
+
+		// test for palindrome
+
+        t=0;
+        boolean test = true;
+        int g = foo.length()-1;
+        while(t<g && test == true)
+        {
+          if(foo.charAt(t) != foo.charAt(g))
+             test = false;
+          t++;
+          g--;
+        }
+
+        for(; t< (foo.length()/2) && test; t++)
+        {
+          if(foo.charAt(t) != foo.charAt(foo.length()-(t+1)))
+             test = false;
+        }
+
+        if(test)
+        {
+             System.out.println("It's a palindrome");
+        }
+        else
+             System.out.println("sorry, no palindrome");
+
+		// character rotation
+
+        StringBuffer str = new StringBuffer("foobar");
+        for(int j = 0; j<6; j++)
+        {
+           for (i=(str.length()-1); i>0;i--)
+           {
+              char temp = str.charAt(i);
+              str.setCharAt(i,str.charAt(i-1));
+              str.setCharAt(i-1,temp);
+           }
+           System.out.println(str);
+        }
+	}
+}

@@ -1,0 +1,32 @@
+/* 
+	Exercise1.java  
+
+	This program generates the reversal of a String by pulling off the last character and tacking
+	it onto a String that is inititally null.
+
+	*Hint: every time you pull off the last char of the original string - you will actually
+	be creating a new String in its place that has one less char.
+	
+	The original string is thus reduced to nothing by the end of the loop. We did not need to 
+	reduce the String each time to create a reversal but it is good exercise with substring method
+*/
+
+import java.io.*;
+public class Exercise1
+{
+	public static void main (String[] args) throws IOException
+	{
+		BufferedReader kbd = new BufferedReader(new InputStreamReader(System.in));
+
+		String original, reversal;
+	
+		// prompt, read the original string from user
+
+		// write a loop that pulls the end char of the original String and tacks 
+		// it onto the end the reversal string
+
+		System.out.println("Reversal: " + reversal );
+
+
+	} // END main
+} //EOF

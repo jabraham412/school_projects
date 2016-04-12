@@ -1,0 +1,48 @@
+/* 
+	Practice.java  
+
+	Program is partly written: You must fill in a few lines of code here and there to make the 
+	program output the right thing:
+
+*/
+import java.io.*;
+
+public class Practice
+{
+	public static void main (String[] args) throws IOException
+	{
+		BufferedReader kbd = new BufferedReader(new InputStreamReader(System.in));
+
+		String response; // stores user input from kbd
+
+		// we convert each user response into a specific data type and store it in variables
+		int i;
+		double d;
+		char c;
+
+		// prompt for, read, and echo a String
+
+		System.out.print("\nEnter a word that is a least at least 10 chars long : ");
+		response = kbd.readLine();
+
+		// ECHO BACK TO USER THE ACTUAL LENGTH OF THE STRING THEY TYPED IN
+		// i.e. output something like:  your string has length: 13
+
+		
+		// ECHO BACK TO USER A STRING OF THE  FIRST 6 CHARS OF  THEY TYPED IN
+		// i.e. output something like:  first 6 chars were: foobar  
+
+		
+		// ECHO BACK TO USER A STRING OF THE  LAST 5 CHARS OF  THEY TYPED IN
+		// i.e. output something like:  last 5 chars were: World
+
+
+		// ECHO BACK TO USER THE FIRST CHAR OF THEIR STRING: 
+		// i.e. output something like:  first char is: H
+
+
+		// ECHO BACK TO USER THE LAST CHAR OF THEIR STRING: 
+		// i.e. output something like:  last char is: d
+	} // END main
+
+} //EOF

@@ -1,0 +1,68 @@
+/*************************************************************************
+ * John Abraham
+ * CS 1501: Assignment 6
+ * 4/21/2014
+ *************************************************************************/
+
+ Part A. Small Integer RSA Cryptography 
+
+(1) KeyGen.java, Encode.java, and Decode.java were created to complete parts 2-6.
+
+(2) Send a message to Bob. The message that you want to send is the left brace
+	character ‘{‘. You know that Bob’s (e, n) pair is (5, 437). What integer will
+	you send? ______16______
+
+(3) Bob receives a message. It is the integer 16. Bob’s (d, n) pair is (317, 437).
+	What message did Bob receive? ______{______
+
+(4) An eavesdropper is watching all communications that are destined for Ken. The
+	eavesdropper sees the pair (9,247). He knows that the first number is
+	an encoded ASCII value and the second number is Ken’s value for n. He also knows
+	the algorithm that Ken uses to determine n, phi, e and d from p and q. The
+	eavesdropper sees that Ken has chosen a rather small value for n and so decides
+	to break this code. What ASCII character is being sent to Ken? ______Q______
+	KeyGen.java: with p = 13, q = 19  because(n = 247) we find private key (d)
+	Decode.java: with d = 173, n = 247, c = 9 result of the decoder is 'Q'
+	
+(5) Consider an RSA key set with p = 11, q = 29, n = 319, and e = 3. What value
+    of d should be used in the secret key? ______187_______ What is the encryption
+	of the message m = 100 ? ______ 254______
+	
+(6) Bob receives several digitally signed messages from someone he thinks may be
+    Alice. He knows that Alice’s public key is (e = 3, n = 391). The messages each
+	arrive in two parts. The first part is “in the clear” and is not protected
+	from disclosure. The second part is the first part encrypted using the signer’s
+	secret key d. Here are the message pairs Bob receives. Which ones are actually
+	from Alice and which one’s have been corrupted or are forged? (Hint: Alice uses
+	her secret key to encrypt the signed part. Bob needs to use Alice’s public key
+	to compare the clear text with the encoded text.)
+	p = 17, q = 23, private key d = 235
+ 
+	<’A’, 112> ---> ______(from Alice)______
+	<’L’, 359> ---> ______(from Alice)______
+	<’X’, 296> ---> ______(from Alice)______
+	<’B’, 113> ---> ______(corrupted )______
+	
+(7) Alice’s public key pair is (e = 3, n = 391). Write a Java program that behaves
+	as follows:
+	java EncodeString
+	Enter the encoding exponent e :  3
+	Enter the modulus n : 391
+	Enter the string to encode :  Hello Alice
+		234 16 301 301 304 315 143 301 265 228 16
+	(EncodeString.java included in the .zip file)
+
+(8) Alice’s private pair is (d = 235, n = 391). Write a Java program that behaves
+	as follows:
+	java DecodeInts
+	Enter the decoding exponent d : 235
+	Enter the modulus n : 391
+	Enter the number of integers to decode : 11
+		234 16 301 301 304 315 143 301 265 228 16
+		Hello Alice
+	(DecodeInts.java included in the .zip file)
+___________________________________________________________________________________
+Part B. BigInteger RSA Cryptography
+
+(RSA.java included in the .zip file)
+___________________________________________________________________________________

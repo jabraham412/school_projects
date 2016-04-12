@@ -1,0 +1,11 @@
+WAR-FTPD 1.67-05 3
+Exercise1.java.txt 0666 hoffman Guest 0 0 (null)
+Exercise2.java.txt 0666 hoffman Guest 0 0 (null)
+Exercise3.java.txt 0666 hoffman Guest 0 0 (null)
+Solution1.class 0666 hoffman Guest 0 0 (null)
+Solution1.java.txt 0666 hoffman Guest 0 0 (null)
+Solution2.class 0666 hoffman Guest 0 0 (null)
+Solution2.java.txt 0666 hoffman Guest 0 0 (null)
+Solution3.class 0666 hoffman Guest 0 0 (null)
+Solution3.java.txt 0666 hoffman Guest 0 0 (null)
+WS_FTP.LOG 0666 hoffman Guest 0 0 (null)

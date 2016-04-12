@@ -1,0 +1,27 @@
+John Abraham
+CS 1501: Assignment 3
+Complexity Analysis of Novacy's Scheme
+
+1) CreateAuxiliaryGraph.java
+   Running Time: O(E + V)
+   Space: O(1)
+
+2) ApplyBellmanFord.java
+   Running Time: O(EV)
+   Space: O(V)
+
+3) ApplyDijkstra.java
+   Running Time: O(E log V)
+   Space: O(V)
+
+   Result for single source:
+   Running Time: O(E + V + EV + E log V)
+   Space: O(1+2V)
+   
+4) ApplyDijkstraAllPairs.java
+   Running Time: O(EV log V)
+   Space: O(V)
+
+   Result for all pairs:
+   Running Time: O(EV + V^2 + EV^2 + EV log V)
+   Space: O(V + 2V^2)

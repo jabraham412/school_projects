@@ -1,0 +1,4 @@
+aardvadr
+bits read = 64
+bits transmitted = 46
+compression ratio = 28.1

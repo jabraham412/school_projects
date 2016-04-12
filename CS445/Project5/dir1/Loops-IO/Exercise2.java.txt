@@ -1,0 +1,34 @@
+/*
+	Exercise2.java  input validation
+
+	This program prompts the user for a lower bound and an upper bound.  You must put these prompts in
+	a loop that repeats until the following is true:
+		- both numbers are greater than 0
+		- lower is strictly less than the upper
+
+	After the lower and upper are validated, echo out a line of output displaying the lower and the upper
+*/
+
+import java.io.*;
+public class Exercise2
+{
+	public static void main (String[] args) throws IOException
+	{
+		BufferedReader kbd = new BufferedReader(new InputStreamReader(System.in));
+
+		// declare vars for converted int, lower and upper;
+
+		// prompt for and validate lower and upper bound
+		do
+		{
+			// prompt for lower 
+			// read & convert response into lower var 
+
+			// same for upper
+	
+		} while ( upper is not strictly greater than lower  OR  lower is not greater than zero );
+
+		// print lower and uppper bound 
+
+	} // END main
+} //EOF

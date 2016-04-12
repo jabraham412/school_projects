@@ -1,0 +1,6 @@
+John Abraham
+CS449: Lab 6
+
+1) Does the quantum seem long or short ? Short.
+
+2) quantum still seems short when pthread_yield() is inserted.
