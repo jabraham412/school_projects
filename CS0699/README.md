@@ -1,5 +1,5 @@
-# python_scripts
-Python scripts for a course on data-centric security.<br />
+# CS0699 - Data-Centric Security
+Python scripts for the University of Pittsburgh's Data-Centric Security course.<br />
 
 **_For reference only._**
 
