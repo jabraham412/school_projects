@@ -8,10 +8,12 @@ to run:
 1. Generate keys by typing the following in to the terminal:
 ```
 java RSA <nBits>
-
+```
+```
 where <nBits> is the number bits the keys consist of (ex. 8 works: anything more than that takes too long to decrypt)
 this generates the public and private keys in public.txt and private.txt
 ```
+
 2. Encrypt a file by typing the following in to the terminal:
 
 java RSA -encrypt file.txt
