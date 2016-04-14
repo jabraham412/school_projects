@@ -15,6 +15,6 @@ java vmsim –n <numframes> -a opt gcc.trace
 java vmsim –n <numframes> -a clock gcc.trace
 java vmsim –n <numframes> -a nru -r <refresh> gcc.trace
 ```
-![alt tag](https://raw.githubusercontent.com/abrahamjj/CS1550/master/project3/statistics/page_faults_gcc_trace.png)
-![alt tag](https://raw.githubusercontent.com/abrahamjj/CS1550/master/project3/statistics/writes_to_disk_gcc_trace.png)
+![alt tag](https://github.com/abrahamjj/School_Projects/blob/master/CS1550/project3/statistics/page_faults_gcc_trace.png)
+![alt tag](https://github.com/abrahamjj/School_Projects/blob/master/CS1550/project3/statistics/writes_to_disk_gcc_trace.png)
 
