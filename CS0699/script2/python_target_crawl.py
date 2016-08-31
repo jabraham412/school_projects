@@ -1,38 +1,6 @@
 # Author: John Abraham
 # Data-Centric Security
 # Exercise2: Web Crawler
-#
-# avoiding detection during the crawl process is kept in
-# mind and several measures are taken:
-# 1. Speed: If you send too many requests to a website
-#    quickly one after the other you can get a too many
-#    requests error and the url will not be crawls or worse
-#    you can get blocked from the website. To avoid this I
-#    inserted a one second wait/sleep after each url fetch.
-# 2. Identity: websites do not want to block genuine users
-#    so we should try to look like one using user-agent spoofing.
-#    To do that we can change the user agent on urllib2.urlopen()
-#    that we are using to open a url. When opening a url and
-#    requesting the html from that url I am pretending to be
-#    Mozilla Firefox v 5.0 and not showing that I am infact a
-#    web crawler bot.
-# 3. Infinite loop traps: some websites create infinite loop
-#    traps that spiders can get stuck in. To avoid this problem
-#    I have an option to set a max link depth before beginning a
-#    crawl, and during the crawl process visited/crawled links are
-#    stored in a container and never visited/crawled again.
-#    So whether a max link depth limit is set or not this crawler
-#    avoids these kinds of traps.
-# there are some other strategies to consider when avoiding
-# crawler traps but these two were suffcient for most websites.
-# Other possible strategies may include:
-# 1. avoiding honeypot traps (urls not displayed to users
-#    but still embedded in html).
-# 2. IP spoofing on every http get request.
-# 3. not following the same crawling pattern.
-# 4. Nnot requesting pages that have contiguous urls on a page.
-#    It is better to access urls in a random order as a user would
-#    and not one after the other.
 
 import re
 import sys
@@ -171,9 +139,9 @@ def get_urls_in_page(parent_url, base_url):
   # return a set version of the list to get rid of duplicate urls
   return set(child_urls)
 
-# for urls that are external (not in our base domain) we will not
+# for urls that are external (not in the base domain) we will not
 # crawl them but we will print them to the screen if they have
-# one of these words in them: test, dev, or stage because them
+# one of these words in them: test, dev, or stage because they
 # may be of some interest.
 def external_url_check(external_url):
   if ('test' in external_url):
