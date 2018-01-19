@@ -3,7 +3,7 @@ Python scripts for the University of Pittsburgh's Data-Centric Security course.<
 
 **_For reference only._**
 
-Script1: Credit Card Search.<br />
-Script2: Website Crawler.<br />
-Script3: Port Scanner.<br />
-Script4: Shodan API.<br />
+Script #1: Credit Card Search<br />
+Script #2: Website Crawler<br />
+Script #3: Port Scanner<br />
+Script #4: Shodan API<br />
