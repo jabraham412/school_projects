@@ -1,4 +1,4 @@
-#School Projects#
+## School Projects
 
 **_For reference only._** <br />
 
